@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Jayesh!
 
-<!--
-**Jayesh-K39/Jayesh-K39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer from India, currently pursuing my Bachelor's in Computer Science.
 
-Here are some ideas to get you started:
+I build full-stack web applications with a focus on real-time systems and clean architecture. Currently deep in **class-quiz-pro** — a real-time classroom quiz app with live leaderboards, reconnection handling, and teacher-controlled quiz flow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I work with:**
+- Frontend: React, JavaScript
+- Backend: Node.js, Express, Socket.IO
+- Database: MySQL
+- Auth: JWT
+
+**What I'm focused on right now:**
+- Polishing class-quiz-pro for production deployment
+- Picking up freelance/remote work with international clients
+
+📫 Reach me: jayeshkurdukar@gmail.com | [LinkedIn](https://www.linkedin.com/in/jayesh-kurdukar-091555373)
